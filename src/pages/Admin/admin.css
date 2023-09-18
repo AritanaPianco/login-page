@@ -1,0 +1,40 @@
+:root{
+    --verde-form:#588157;
+    --verder-claro: #A3B18A;
+    --verde-medio: #3A5A40;
+    --verde-creme: #DAD7CD;
+    --verde-escuro: #344E41;
+
+}
+
+.admin-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+       
+}
+
+.admin-container h1{
+    margin-top: 10rem;
+    font-size: 3rem;
+
+}
+
+.admin-container button{
+    margin-top: 3rem;
+    border-radius: 10px;
+    border: none;
+    padding: 2rem 2.5rem;
+    font-size: 2rem;
+    font-weight: bold;
+    background-color: var(--verde-creme);
+    cursor: pointer;
+    transition: all .3s;
+}
+
+.admin-container button:hover{
+   background-color: var(--verde-medio);
+   
+}
+
