@@ -1,4 +1,4 @@
-## Uma lading-page integrada com o banco de dados Firebase
+### Uma login-page integrada com o banco de dados Firebase
 
 
 ### O que utilizei:
